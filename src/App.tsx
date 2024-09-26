@@ -8,6 +8,7 @@ import { configureFakeBackend } from './helpers';
 import './assets/scss/Theme.scss';
 
 const App = () => {
+    
     configureFakeBackend();
     return <Routes />;
 };

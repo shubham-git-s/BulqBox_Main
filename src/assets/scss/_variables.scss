@@ -1126,45 +1126,45 @@ $dropdown-padding-x:                0;
 $dropdown-padding-y:                .5rem;
 $dropdown-spacer:                   .125rem;
 $dropdown-font-size:                $font-size-base;
-$dropdown-color:                    var(--#{$variable-prefix}dropdown-color);
-$dropdown-bg:                       var(--#{$variable-prefix}dropdown-bg);
-$dropdown-border-color:             var(--#{$variable-prefix}dropdown-border-color);
+// $dropdown-color:                    var(--#{$variable-prefix}dropdown-color);
+// $dropdown-bg:                       var(--#{$variable-prefix}dropdown-bg);
+// $dropdown-border-color:             var(--#{$variable-prefix}dropdown-border-color);
 $dropdown-border-radius:            $border-radius;
 $dropdown-border-width:             $border-width;
 $dropdown-inner-border-radius:      subtract($dropdown-border-radius, $dropdown-border-width);
-$dropdown-divider-bg:               var(--#{$variable-prefix}dropdown-divider-bg);
+// $dropdown-divider-bg:               var(--#{$variable-prefix}dropdown-divider-bg);
 $dropdown-divider-margin-y:         $spacer * .5;
-$dropdown-box-shadow:               var(--#{$variable-prefix}dropdown-box-shadow);
+// $dropdown-box-shadow:               var(--#{$variable-prefix}dropdown-box-shadow);
 
-$dropdown-link-color:               var(--#{$variable-prefix}dropdown-link-color);
-$dropdown-link-hover-color:         var(--#{$variable-prefix}dropdown-link-hover-color);
-$dropdown-link-hover-bg:            var(--#{$variable-prefix}dropdown-link-hover-bg);
+// $dropdown-link-color:               var(--#{$variable-prefix}dropdown-link-color);
+// $dropdown-link-hover-color:         var(--#{$variable-prefix}dropdown-link-hover-color);
+// $dropdown-link-hover-bg:            var(--#{$variable-prefix}dropdown-link-hover-bg);
 
-$dropdown-link-active-color:        var(--#{$variable-prefix}dropdown-link-active-color);
-$dropdown-link-active-bg:           var(--#{$variable-prefix}dropdown-link-active-bg);
+// $dropdown-link-active-color:        var(--#{$variable-prefix}dropdown-link-active-color);
+// $dropdown-link-active-bg:           var(--#{$variable-prefix}dropdown-link-active-bg);
 
-$dropdown-link-disabled-color:      var(--#{$variable-prefix}dropdown-link-disabled-color);
+// $dropdown-link-disabled-color:      var(--#{$variable-prefix}dropdown-link-disabled-color);
 
 $dropdown-item-padding-y:           .375rem;
 $dropdown-item-padding-x:           $spacer;
 
-$dropdown-header-color:             var(--#{$variable-prefix}dropdown-header-color);
+// $dropdown-header-color:             var(--#{$variable-prefix}dropdown-header-color);
 $dropdown-header-padding:           .5rem 1.5rem;
 // scss-docs-end dropdown-variables
 
 // scss-docs-start dropdown-dark-variables
-$dropdown-dark-color:               var(--#{$variable-prefix}dropdown-dark-color);
-$dropdown-dark-bg:                  var(--#{$variable-prefix}dropdown-dark-bg);
-$dropdown-dark-border-color:        var(--#{$variable-prefix}dropdown-dark-border-color);
-$dropdown-dark-divider-bg:          var(--#{$variable-prefix}dropdown-dark-divider-bg);
+// $dropdown-dark-color:               var(--#{$variable-prefix}dropdown-dark-color);
+// $dropdown-dark-bg:                  var(--#{$variable-prefix}dropdown-dark-bg);
+// $dropdown-dark-border-color:        var(--#{$variable-prefix}dropdown-dark-border-color);
+// $dropdown-dark-divider-bg:          var(--#{$variable-prefix}dropdown-dark-divider-bg);
 $dropdown-dark-box-shadow:          null;
-$dropdown-dark-link-color:          var(--#{$variable-prefix}dropdown-dark-link-color);
-$dropdown-dark-link-hover-color:    var(--#{$variable-prefix}dropdown-dark-link-hover-color);
-$dropdown-dark-link-hover-bg:       var(--#{$variable-prefix}dropdown-dark-link-hover-bg);
-$dropdown-dark-link-active-color:   var(--#{$variable-prefix}dropdown-dark-link-active-color);
-$dropdown-dark-link-active-bg:      var(--#{$variable-prefix}dropdown-dark-link-active-bg);
-$dropdown-dark-link-disabled-color: var(--#{$variable-prefix}dropdown-dark-link-disabled-color);
-$dropdown-dark-header-color:        var(--#{$variable-prefix}dropdown-dark-header-color);
+// $dropdown-dark-link-color:          var(--#{$variable-prefix}dropdown-dark-link-color);
+// $dropdown-dark-link-hover-color:    var(--#{$variable-prefix}dropdown-dark-link-hover-color);
+// $dropdown-dark-link-hover-bg:       var(--#{$variable-prefix}dropdown-dark-link-hover-bg);
+// $dropdown-dark-link-active-color:   var(--#{$variable-prefix}dropdown-dark-link-active-color);
+// $dropdown-dark-link-active-bg:      var(--#{$variable-prefix}dropdown-dark-link-active-bg);
+// $dropdown-dark-link-disabled-color: var(--#{$variable-prefix}dropdown-dark-link-disabled-color);
+// $dropdown-dark-header-color:        var(--#{$variable-prefix}dropdown-dark-header-color);
 // scss-docs-end dropdown-dark-variables
 
 
@@ -1223,17 +1223,17 @@ $card-spacer-y:                     $spacer;
 $card-spacer-x:                     $spacer;
 $card-title-spacer-y:               $spacer * .67;
 $card-border-width:                 0;
-$card-border-color:                 var(--#{$variable-prefix}card-border-color);
+// $card-border-color:                 var(--#{$variable-prefix}card-border-color);
 $card-border-radius:                $border-radius;
-$card-box-shadow:                   var(--#{$variable-prefix}card-box-shadow);
+// $card-box-shadow:                   var(--#{$variable-prefix}card-box-shadow);
 $card-inner-border-radius:          subtract($card-border-radius, $card-border-width);
 $card-cap-padding-y:                $card-spacer-y * .67;
 $card-cap-padding-x:                $card-spacer-x;
-$card-cap-bg:                       var(--#{$variable-prefix}card-cap-bg);
+// $card-cap-bg:                       var(--#{$variable-prefix}card-cap-bg);
 $card-cap-color:                    null;
 $card-height:                       null;
 $card-color:                        null;
-$card-bg:                           var(--#{$variable-prefix}card-bg);
+// $card-bg:                           var(--#{$variable-prefix}card-bg);
 $card-img-overlay-padding:          1.25rem;
 $card-group-margin:                 $grid-gutter-width * .5;
 // scss-docs-end card-variables

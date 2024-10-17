@@ -12,7 +12,7 @@ const AnalyticsCharts = () => {
         labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
         datasets: [
             {
-                label: 'Sales ($)',
+                label: 'Sales (₹)',
                 data: [300, 500, 400, 600, 700, 800, 900],
                 borderColor: 'rgba(75, 192, 192, 1)',
                 backgroundColor: 'rgba(75, 192, 192, 0.2)',

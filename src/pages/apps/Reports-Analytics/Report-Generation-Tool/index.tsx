@@ -144,7 +144,7 @@ const ReportGenerationTool = () => {
             Date: item.date,
             'Product Category': item.productCategory,
             'Sales Channel': item.salesChannel,
-            Amount: `$${item.amount.toFixed(2)}`,
+            Amount: `₹${item.amount.toFixed(2)}`,
             'Units Sold': item.unitsSold
         }));
 

@@ -60,8 +60,8 @@ const accordionContent2: TabContent[] = [
     },
     {
         id: 4,
-        title: 'Will you regularly give updates of Adminto ?',
-        text: 'Yes, We will update the Adminto regularly. All the future updates would be available without any cost',
+        title: 'Will you regularly give updates of Bulqbox ?',
+        text: 'Yes, We will update the Bulqbox regularly. All the future updates would be available without any cost',
     },
 ];
 

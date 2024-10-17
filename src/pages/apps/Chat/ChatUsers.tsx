@@ -61,7 +61,7 @@ const ChatUsers = ({ onUserSelect }: ChatUsersProps) => {
                         <div className="flex-grow-1 align-items-center ms-2">
                             <h5 className="mt-0 mb-1">
                                 <Link to="/" className="text-reset">
-                                    Nowak Helme
+                                R Maheshwari
                                 </Link>
                             </h5>
                             <p className="font-13 text-muted mb-0">Admin Head</p>

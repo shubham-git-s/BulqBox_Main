@@ -3,7 +3,7 @@ import { Tnode } from './types';
 const basicNodes: Tnode[] = [
     {
         id: 1,
-        text: 'Adminto',
+        text: 'Bulqbox',
         children: [
             {
                 id: 2,
@@ -72,7 +72,7 @@ const basicNodes: Tnode[] = [
 const checkboxNodes: Tnode[] = [
     {
         id: 1,
-        text: 'Adminto',
+        text: 'Bulqbox',
         children: [
             {
                 id: 2,

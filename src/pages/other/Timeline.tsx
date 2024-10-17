@@ -70,7 +70,7 @@ const Timeline = () => {
                                     </p>
                                     <p>
                                         consectetur adipisicing elit. Iusto, optio, dolorum{' '}
-                                        <Link to="#">John deon</Link> provident rerum aut hic quasi placeat iure tempora
+                                        <Link to="#">Ravi Singh</Link> provident rerum aut hic quasi placeat iure tempora
                                         laudantium{' '}
                                     </p>
                                 </div>
@@ -191,7 +191,7 @@ const Timeline = () => {
                                     <p className="timeline-date text-muted">
                                         <small>08:25 am</small>
                                     </p>
-                                    <p>Download the new updates of Adminto admin dashboard</p>
+                                    <p>Download the new updates of Bulqbox admin dashboard</p>
                                 </div>
                             </div>
                         </div>
@@ -242,7 +242,7 @@ const Timeline = () => {
                                     <p className="timeline-date text-muted">
                                         <small>08:25 am</small>
                                     </p>
-                                    <p>Download the new updates of Adminto admin dashboard</p>
+                                    <p>Download the new updates of Bulqbox admin dashboard</p>
                                 </div>
                             </div>
                         </div>

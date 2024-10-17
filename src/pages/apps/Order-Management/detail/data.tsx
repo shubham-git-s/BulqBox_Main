@@ -3,8 +3,8 @@ import { OrderManagementDetail } from './types';
 const orderData: OrderManagementDetail = {
     orderId: "1001",
     buyerDetails: {
-        buyerName: "John Doe",
-        email: "johndoe@example.com",
+        buyerName: "Ravi Singh",
+        email: "ravisingh@example.com",
         phone: "123-456-7890",
         shippingAddress: {
             street: "123 Main St",

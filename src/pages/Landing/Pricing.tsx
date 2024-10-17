@@ -17,7 +17,7 @@ const PricingCard = ({ plan }: { plan: PricingPlan }) => {
                 <div className="plan-price">
                     <h3 className="mb-3 price">
                         <sup>
-                            <small>$</small>
+                            <small>₹</small>
                         </sup>
                         {plan.price}
                     </h3>

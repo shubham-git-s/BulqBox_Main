@@ -50,7 +50,7 @@ const DefaultToasts = () => {
                             <Toast onClose={() => setShow(false)} show={show} delay={5000} autohide>
                                 <Toast.Header>
                                     <img src={logo} alt="brand-logo" height="12" className="me-1" />
-                                    <strong className="me-auto">Adminto</strong>
+                                    <strong className="me-auto">Bulqbox</strong>
                                     <small className="ms-5">11 mins ago</small>
                                 </Toast.Header>
                                 <Toast.Body>Hello, world! This is a toast message.</Toast.Body>
@@ -75,7 +75,7 @@ const DefaultToasts = () => {
                             >
                                 <Toast.Header>
                                     <img src={logo} alt="brand-logo" height="12" className="me-1" />
-                                    <strong className="me-auto">Adminto</strong>
+                                    <strong className="me-auto">Bulqbox</strong>
                                     <small className="ms-5">11 mins ago</small>
                                 </Toast.Header>
                                 <Toast.Body>Hello, world! This is a toast message.</Toast.Body>
@@ -108,7 +108,7 @@ const DefaultToasts = () => {
                                             >
                                                 <Toast.Header>
                                                     <img src={logo} alt="brand-logo" height="12" className="me-1" />
-                                                    <strong className="me-auto">Adminto</strong>
+                                                    <strong className="me-auto">Bulqbox</strong>
                                                     <small className="ms-5">{item.time}</small>
                                                 </Toast.Header>
                                                 <Toast.Body>{item.desc}</Toast.Body>
@@ -138,7 +138,7 @@ const DefaultToasts = () => {
                                 <Toast onClose={() => setShowPlacement(false)} show={showPlacement}>
                                     <Toast.Header>
                                         <img src={logo} alt="brand-logo" height="12" className="me-1" />
-                                        <strong className="me-auto">Adminto</strong>
+                                        <strong className="me-auto">Bulqbox</strong>
                                         <small className="ms-5">1 mins ago</small>
                                     </Toast.Header>
                                     <Toast.Body>Heads up, toasts will stack automatically</Toast.Body>

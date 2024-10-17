@@ -49,7 +49,7 @@ const messages: Message[] = [
 const projectDetails: ProjectDetail[] = [
     {
         id: 1,
-        name: 'Adminto Admin v1',
+        name: 'Bulqbox Admin v1',
         startDate: '01/01/2017',
         dueDate: '26/04/2017',
         status: 'Released',
@@ -58,16 +58,16 @@ const projectDetails: ProjectDetail[] = [
     },
     {
         id: 2,
-        name: 'Adminto Frontend v1',
+        name: 'Bulqbox Frontend v1',
         startDate: '01/01/2017',
         dueDate: '26/04/2017',
         status: 'Released',
         variant: 'success',
-        clients: 'Adminto admin',
+        clients: 'Bulqbox admin',
     },
     {
         id: 3,
-        name: 'Adminto Admin v1.1',
+        name: 'Bulqbox Admin v1.1',
         startDate: '01/05/2017',
         dueDate: '10/05/2017',
         status: 'Pending',
@@ -76,16 +76,16 @@ const projectDetails: ProjectDetail[] = [
     },
     {
         id: 4,
-        name: 'Adminto Frontend v1.1',
+        name: 'Bulqbox Frontend v1.1',
         startDate: '01/01/2017',
         dueDate: '31/05/2017',
         status: 'Work in Progress',
         variant: 'purple',
-        clients: 'Adminto admin',
+        clients: 'Bulqbox admin',
     },
     {
         id: 5,
-        name: 'Adminto Admin v1.3',
+        name: 'Bulqbox Admin v1.3',
         startDate: '01/01/2017',
         dueDate: '31/05/2017',
         status: 'Coming soon',
@@ -94,12 +94,12 @@ const projectDetails: ProjectDetail[] = [
     },
     {
         id: 6,
-        name: 'Adminto Admin v1.3',
+        name: 'Bulqbox Admin v1.3',
         startDate: '01/01/2017',
         dueDate: '31/05/2017',
         status: 'Coming soon',
         variant: 'blue',
-        clients: 'Adminto admin',
+        clients: 'Bulqbox admin',
     },
 ];
 

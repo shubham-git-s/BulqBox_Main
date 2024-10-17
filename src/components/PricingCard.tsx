@@ -28,7 +28,7 @@ const PricingCard = ({ plans, containerClass }: PricingCardProps) => {
                             <Card.Body className="inner-box">
                                 <div className="plan-header p-3 text-center">
                                     <h3 className="plan-title">{plan.name}</h3>
-                                    <h2 className="plan-price fw-normal">${plan.price}</h2>
+                                    <h2 className="plan-price fw-normal">₹{plan.price}</h2>
                                     <div className="plan-duration">Per {plan.duration}</div>
                                 </div>
                                 <ul className="plan-stats list-unstyled text-center p-3 mb-0">

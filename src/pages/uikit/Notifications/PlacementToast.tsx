@@ -65,7 +65,7 @@ const PlacementToast = () => {
                         <Toast>
                             <Toast.Header closeButton={false}>
                                 <img src={logo} className="me-1" alt="" height="12" />
-                                <strong className="me-auto">Adminto</strong>
+                                <strong className="me-auto">Bulqbox</strong>
                                 <small>11 mins ago</small>
                             </Toast.Header>
                             <Toast.Body>Hello, world! This is a toast message.</Toast.Body>

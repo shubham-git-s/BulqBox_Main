@@ -32,7 +32,7 @@ const Invoice = () => {
                         <div className="panel-body">
                             <div className="clearfix">
                                 <div className="float-start">
-                                    <h3>Adminto</h3>
+                                    <h3>Bulqbox</h3>
                                 </div>
                                 <div className="float-end">
                                     <h4>
@@ -123,7 +123,7 @@ const Invoice = () => {
                                     <p className="text-end">Discout: {invoiceDetails.discount}%</p>
                                     <p className="text-end">VAT: {invoiceDetails.vat}%</p>
                                     <hr />
-                                    <h3 className="text-end">USD {invoiceDetails.total}</h3>
+                                    <h3 className="text-end">INR {invoiceDetails.total}</h3>
                                 </Col>
                             </Row>
                             <hr />

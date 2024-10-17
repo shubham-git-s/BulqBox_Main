@@ -57,7 +57,7 @@ const testimonials: Testimonial[] = [
     {
         id: 1,
         clientName: 'Xpanta',
-        title: 'Adminto User',
+        title: 'Bulqbox User',
         avatar: testi1,
         message:
             ' The designer of this theme delivered a quality product. I am not a front-end developer and I hate when the theme I download has glitches or needs minor tweaks here and there. This worked for my needs just out of the boxes. Also, it is fast and elegant.',
@@ -65,7 +65,7 @@ const testimonials: Testimonial[] = [
     {
         id: 2,
         clientName: 'G_Sam',
-        title: 'Adminto User',
+        title: 'Bulqbox User',
         avatar: testi2,
         message:
             ' Extremely well designed and the documentation is very well done. Super happy with the purchase and definitely recommend this! ',
@@ -73,7 +73,7 @@ const testimonials: Testimonial[] = [
     {
         id: 3,
         clientName: 'Isaacfab',
-        title: 'Adminto User',
+        title: 'Bulqbox User',
         avatar: testi3,
         message:
             " We used this theme to save some design time but... wow it has everything you didn't realize you would need later.I highly recommend this template to get your web design headed in the right direction quickly. ",

@@ -15,7 +15,7 @@ const defaultEvents: EventInput[] = [
     },
     {
         id: '3',
-        title: 'Meeting with John Deo',
+        title: 'Meeting with Ravi Singh',
         start: new Date().setDate(new Date().getDate() + 2),
         end: new Date().setDate(new Date().getDate() + 4),
         className: 'bg-warning',

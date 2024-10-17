@@ -4,19 +4,19 @@ import { orderManagementList } from './types';
 const orderManagementData:orderManagementList[] = [
     {
         orderId: "1001",
-        buyerName: "John Doe",
+        buyerName: "Ravi Singh",
         trackingId: "TRACK123456",
         status: "Shipped"
     },
     {
         orderId: "1002",
-        buyerName: "Jane Smith",
+        buyerName: "Rani Mehra",
         trackingId: null,
         status: "Processing"
     },
     {
         orderId: "1003",
-        buyerName: "Sam Johnson",
+        buyerName: "Rakesh Kapoor",
         trackingId: "TRACK654321",
         status: "Delivered"
     }

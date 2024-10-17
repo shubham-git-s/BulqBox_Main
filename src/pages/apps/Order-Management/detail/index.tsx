@@ -81,7 +81,7 @@ const OrderDetailView = () => {
                     <tr key={product.itemId}>
                       <td>{product.itemName}</td>
                       <td>{product.quantity}</td>
-                      <td>${product.price.toFixed(2)}</td>
+                      <td>₹{product.price.toFixed(2)}</td>
                     </tr>
                   ))}
                 </tbody>
@@ -100,7 +100,7 @@ const OrderDetailView = () => {
             <Col xs={6} className="text-end">
               <p><strong>Total Amount:</strong></p>
               <p className="text-success" style={{ fontSize: "1.5rem", fontWeight: "bold" }}>
-                ${order.totalAmount.toFixed(2)}
+              ₹{order.totalAmount.toFixed(2)}
               </p>
             </Col>
           </Row>

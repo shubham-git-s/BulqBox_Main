@@ -6018,12 +6018,12 @@ const MDIICONS_LIST: MdiIcon[] = [
         version: '4.7.95',
     },
     {
-        name: 'cash-usd',
+        name: 'cash-inr',
         hex: 'F1176',
         version: '4.4.95',
     },
     {
-        name: 'cash-usd-outline',
+        name: 'cash-inr-outline',
         hex: 'F0117',
         version: '1.5.54',
     },
@@ -8960,22 +8960,22 @@ const MDIICONS_LIST: MdiIcon[] = [
         version: '2.0.46',
     },
     {
-        name: 'currency-usd',
+        name: 'currency-inr',
         hex: 'F01C1',
         version: '1.5.54',
     },
     {
-        name: 'currency-usd-circle',
+        name: 'currency-inr-circle',
         hex: 'F116B',
         version: '4.4.95',
     },
     {
-        name: 'currency-usd-circle-outline',
+        name: 'currency-inr-circle-outline',
         hex: 'F0178',
         version: '1.5.54',
     },
     {
-        name: 'currency-usd-off',
+        name: 'currency-inr-off',
         hex: 'F067A',
         version: '1.7.12',
     },
@@ -15187,7 +15187,7 @@ const MDIICONS_LIST: MdiIcon[] = [
         version: '3.3.92',
     },
     {
-        name: 'home-currency-usd',
+        name: 'home-currency-inr',
         hex: 'F08AF',
         version: '2.2.43',
     },

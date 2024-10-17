@@ -57,7 +57,7 @@ const Footer = () => {
                                 </li>
                             </ul>
                             <p className="text-white-50 mb-4">
-                                {new Date().getFullYear()} © Adminto. Design by{' '}
+                                {new Date().getFullYear()} © Bulqbox. Design by{' '}
                                 <Link to="#" className="text-white-50">
                                     Coderthemes
                                 </Link>{' '}

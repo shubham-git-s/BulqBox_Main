@@ -16,7 +16,7 @@ const Users = () => {
                 <StatisticsWidget3
                     variant="warning"
                     avatar={avatar1}
-                    name="Chadengle"
+                    name="Ratan"
                     emailId="coderthemes@gmail.com"
                     position="Admin"
                 />
@@ -25,7 +25,7 @@ const Users = () => {
                 <StatisticsWidget3
                     variant="secondary"
                     avatar={avatar2}
-                    name="Michael Zenaty"
+                    name="Naval Khan"
                     emailId="coderthemes@gmail.com"
                     position="Support Lead"
                 />
@@ -34,7 +34,7 @@ const Users = () => {
                 <StatisticsWidget3
                     variant="success"
                     avatar={avatar3}
-                    name="Stillnotdavid"
+                    name="Veena Shah"
                     emailId="coderthemes@gmail.com"
                     position="Designer"
                 />
@@ -43,7 +43,7 @@ const Users = () => {
                 <StatisticsWidget3
                     variant="info"
                     avatar={avatar4}
-                    name="Tomaslau"
+                    name="Vaani Kola"
                     emailId="coderthemes@gmail.com"
                     position="Developer"
                 />

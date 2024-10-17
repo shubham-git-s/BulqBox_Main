@@ -1,7 +1,7 @@
 import React from 'react';
-import { useForm, Resolver, SubmitHandler, UnpackNestedValue, DeepPartial } from 'react-hook-form';
+import { useForm, Resolver, SubmitHandler, UnpackNestedValue, DeepPartial, FieldValues, DefaultValues } from 'react-hook-form';
 
-type VerticalFromProps<TFormValues> = {
+type VerticalFromProps<TFormValues extends FieldValues> = {
     defaultValues?: UnpackNestedValue<DeepPartial<TFormValues>>;
     resolver?: Resolver<TFormValues>;
     children?: React.ReactNode;
@@ -19,7 +19,10 @@ const VerticalForm = <TFormValues extends Record<string, any> = Record<string, a
     /*
      * form methods
      */
-    const methods = useForm<TFormValues>({ defaultValues, resolver });
+    const methods = useForm<TFormValues>({
+        defaultValues: defaultValues as DefaultValues<TFormValues>,
+        resolver,
+    });
     const {
         handleSubmit,
         register,

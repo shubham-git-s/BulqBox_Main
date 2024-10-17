@@ -56,7 +56,6 @@ const LineAnnotationChart = () => {
                         size: 8,
                         fillColor: '#fff',
                         strokeColor: '#ff5b5b',
-                        radius: 2,
                     },
                     label: {
                         borderColor: '#ff5b5b',

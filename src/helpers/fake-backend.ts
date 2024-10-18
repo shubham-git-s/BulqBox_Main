@@ -18,7 +18,7 @@ export function configureFakeBackend() {
     let users: UserData[] = [
         {
             id: 1,
-            email: 'bulqbox@coderthemes.com',
+            email: 'admin@bulqbox.com',
             username: 'test',
             password: 'test',
             firstName: 'Test',

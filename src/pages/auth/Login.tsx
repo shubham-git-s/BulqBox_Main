@@ -109,7 +109,7 @@ const Login = () => {
                 <VerticalForm<UserData>
                     onSubmit={onSubmit}
                     resolver={schemaResolver}
-                    defaultValues={{ email: 'bulqbox@coderthemes.com', password: 'test' }}
+                    defaultValues={{ email: 'admin@bulqbox.com', password: 'test' }}
                 >
                     <FormInput
                         type="email"

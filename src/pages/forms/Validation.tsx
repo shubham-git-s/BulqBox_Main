@@ -292,7 +292,7 @@ const HorizontalForm = () => {
     );
 
     const methods = useForm<UserData2>({
-        defaultValues: { email2: 'bulqbox@coderthemes.com' },
+        defaultValues: { email2: 'admin@bulqbox.com' },
         resolver: schemaResolver2,
     });
     const {

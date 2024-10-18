@@ -17,7 +17,7 @@ const contacts: Contact[] = [
             'Hi I am Johnathn Deo, has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type.',
         name: 'Johnathan Deo',
         mobile: '(123) 123 1234',
-        email: 'coderthemes@gmail.com',
+        email: 'user@bulqbox.com',
         location: 'USA',
     },
     {
@@ -27,7 +27,7 @@ const contacts: Contact[] = [
             'Hi I am Johnathn Deo, has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type.',
         name: 'Johnathan Deo',
         mobile: '(123) 123 1234',
-        email: 'coderthemes@gmail.com',
+        email: 'user@bulqbox.com',
         location: 'USA',
     },
     {
@@ -37,7 +37,7 @@ const contacts: Contact[] = [
             'Hi I am Johnathn Deo, has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type.',
         name: 'Johnathan Deo',
         mobile: '(123) 123 1234',
-        email: 'coderthemes@gmail.com',
+        email: 'user@bulqbox.com',
         location: 'USA',
     },
     {
@@ -47,7 +47,7 @@ const contacts: Contact[] = [
             'Hi I am Johnathn Deo, has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type.',
         name: 'Johnathan Deo',
         mobile: '(123) 123 1234',
-        email: 'coderthemes@gmail.com',
+        email: 'user@bulqbox.com',
         location: 'USA',
     },
     {
@@ -57,7 +57,7 @@ const contacts: Contact[] = [
             'Hi I am Johnathn Deo, has been the industrys standard dummy text ever since the5500s, when an unknown printer took a galley of type.',
         name: 'Johnathan Deo',
         mobile: '(123) 123 1234',
-        email: 'coderthemes@gmail.com',
+        email: 'user@bulqbox.com',
         location: 'USA',
     },
     {
@@ -67,7 +67,7 @@ const contacts: Contact[] = [
             'Hi I am Johnathn Deo, has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type.',
         name: 'Johnathan Deo',
         mobile: '(123) 123 1234',
-        email: 'coderthemes@gmail.com',
+        email: 'user@bulqbox.com',
         location: 'USA',
     },
 ];

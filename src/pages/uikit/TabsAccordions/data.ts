@@ -56,7 +56,7 @@ const accordionContent2: TabContent[] = [
     {
         id: 3,
         title: 'How do I get help with the theme?',
-        text: '   Use our dedicated support email (support@coderthemes.com) to send your issues or feedback. We are here to help anytime',
+        text: '   Use our dedicated support email (support@bulqbox.com) to send your issues or feedback. We are here to help anytime',
     },
     {
         id: 4,

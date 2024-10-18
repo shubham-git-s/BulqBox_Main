@@ -33,7 +33,7 @@ const contact: Contact = {
     avatar: avatar2,
     shortDesc:
         'Hi I am Johnathn Deo, has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type.',
-    name: 'Johnathan Deo',
+    name: 'Raj Kapoor',
     mobile: '(123) 123 1234',
     email: 'user@bulqbox.com',
     location: 'USA',

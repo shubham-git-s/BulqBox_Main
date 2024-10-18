@@ -64,7 +64,7 @@ const BasicWizard = () => {
                                                             type="text"
                                                             name="uname"
                                                             id="uname"
-                                                            defaultValue="Bulqbox"
+                                                            defaultValue="bulqbox"
                                                         />
                                                     </Col>
                                                 </Form.Group>
@@ -303,7 +303,7 @@ const ButtonWizard = () => {
                                                             type="text"
                                                             name="uname2"
                                                             id="uname2"
-                                                            defaultValue="Bulqbox"
+                                                            defaultValue="bulqbox"
                                                         />
                                                     </Col>
                                                 </Form.Group>
@@ -634,7 +634,7 @@ const WizardWithProgressbar = () => {
                                                                 type="text"
                                                                 name="uname"
                                                                 id="uname3"
-                                                                defaultValue="Bulqbox"
+                                                                defaultValue="bulqbox"
                                                             />
                                                         </Col>
                                                     </Form.Group>

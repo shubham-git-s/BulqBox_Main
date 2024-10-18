@@ -115,7 +115,7 @@ const Login = () => {
                         type="email"
                         name="email"
                         label={t('Email address')}
-                        placeholder={t('hello@coderthemes.com')}
+                        placeholder={t('hello@bulqbox.com')}
                         containerClass={'mb-3'}
                     />
                     <FormInput

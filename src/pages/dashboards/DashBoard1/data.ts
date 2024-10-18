@@ -54,7 +54,7 @@ const projectDetails: ProjectDetail[] = [
         dueDate: '26/04/2017',
         status: 'Released',
         variant: 'danger',
-        clients: 'Coderthemes',
+        clients: 'bulqbox',
     },
     {
         id: 2,
@@ -72,7 +72,7 @@ const projectDetails: ProjectDetail[] = [
         dueDate: '10/05/2017',
         status: 'Pending',
         variant: 'pink',
-        clients: 'Coderthemes',
+        clients: 'bulqbox',
     },
     {
         id: 4,
@@ -90,7 +90,7 @@ const projectDetails: ProjectDetail[] = [
         dueDate: '31/05/2017',
         status: 'Coming soon',
         variant: 'warning',
-        clients: 'Coderthemes',
+        clients: 'bulqbox',
     },
     {
         id: 6,

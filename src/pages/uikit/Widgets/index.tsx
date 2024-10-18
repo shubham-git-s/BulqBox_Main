@@ -135,7 +135,7 @@ const Widgets = () => {
                         variant="warning"
                         avatar={avatar1}
                         name="Chadengle"
-                        emailId="coderthemes@gmail.com"
+                        emailId="user@bulqbox.com"
                         position="Admin"
                     />
                 </Col>
@@ -144,7 +144,7 @@ const Widgets = () => {
                         variant="secondary"
                         avatar={avatar2}
                         name="Michael Zenaty"
-                        emailId="coderthemes@gmail.com"
+                        emailId="user@bulqbox.com"
                         position="Support Lead"
                     />
                 </Col>
@@ -153,7 +153,7 @@ const Widgets = () => {
                         variant="success"
                         avatar={avatar3}
                         name="Stillnotdavid"
-                        emailId="coderthemes@gmail.com"
+                        emailId="user@bulqbox.com"
                         position="Designer"
                     />
                 </Col>
@@ -162,7 +162,7 @@ const Widgets = () => {
                         variant="info"
                         avatar={avatar4}
                         name="Tomaslau"
-                        emailId="coderthemes@gmail.com"
+                        emailId="user@bulqbox.com"
                         position="Developer"
                     />
                 </Col>

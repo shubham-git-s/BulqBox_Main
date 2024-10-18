@@ -77,13 +77,13 @@ const Logout = () => {
                 <div className="auth-logo">
                     <Link to="/" className="logo logo-dark text-center">
                         <span className="logo-lg">
-                            <img src={LogoDark} alt="" height="22" />
+                            <h1>Bulqbox</h1>
                         </span>
                     </Link>
 
                     <Link to="/" className="logo logo-light text-center">
                         <span className="logo-lg">
-                            <img src={LogoLight} alt="" height="22" />
+                            <h1>Bulqbox</h1>
                         </span>
                     </Link>
                 </div>

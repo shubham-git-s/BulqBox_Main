@@ -59,7 +59,7 @@ const Footer = () => {
                             <p className="text-white-50 mb-4">
                                 {new Date().getFullYear()} © Bulqbox. Design by{' '}
                                 <Link to="#" className="text-white-50">
-                                    Coderthemes
+                                    Bulqbox
                                 </Link>{' '}
                             </p>
                         </div>

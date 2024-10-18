@@ -17,7 +17,7 @@ const Users = () => {
                     variant="warning"
                     avatar={avatar1}
                     name="Ratan"
-                    emailId="coderthemes@gmail.com"
+                    emailId="user@bulqbox.com"
                     position="Admin"
                 />
             </Col>
@@ -26,7 +26,7 @@ const Users = () => {
                     variant="secondary"
                     avatar={avatar2}
                     name="Naval Khan"
-                    emailId="coderthemes@gmail.com"
+                    emailId="user@bulqbox.com"
                     position="Support Lead"
                 />
             </Col>
@@ -35,7 +35,7 @@ const Users = () => {
                     variant="success"
                     avatar={avatar3}
                     name="Veena Shah"
-                    emailId="coderthemes@gmail.com"
+                    emailId="user@bulqbox.com"
                     position="Designer"
                 />
             </Col>
@@ -44,7 +44,7 @@ const Users = () => {
                     variant="info"
                     avatar={avatar4}
                     name="Vaani Kola"
-                    emailId="coderthemes@gmail.com"
+                    emailId="user@bulqbox.com"
                     position="Developer"
                 />
             </Col>
